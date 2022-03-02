@@ -14,3 +14,4 @@ A multi line graph will be created showing the weekly fares total for each of th
 
 ## Results
 
+![Summary count before change](/Resources/Summary_before.png)
