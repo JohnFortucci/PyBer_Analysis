@@ -16,4 +16,4 @@ A multi line graph will be created showing the weekly fares total for each of th
 
 ![Summary dataframe by city type](/analysis/Summary_DF_by_city_type.png)
 
-![Graph of weekly fare summary(/analysis/PyBer_fare_summary.png)
+![Graph of weekly fare summary](/analysis/PyBer_fare_summary.png)
